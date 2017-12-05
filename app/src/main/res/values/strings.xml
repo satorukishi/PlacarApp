@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlacarApp</string>
+    <string name="label_titulo">Times</string>
+    <string name="label_proprietario">Desenvolvido por Satoru Channel</string>
+    <string name="label_timeCasa">Time da casa</string>
+    <string name="hint_timeCasa">Digite o nome do time da casa</string>
+    <string name="label_timeVisitante">Time visitante</string>
+    <string name="hint_timeVisitante">Digite o nome do time visitante</string>
+</resources>
