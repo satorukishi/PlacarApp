@@ -6,4 +6,6 @@
     <string name="hint_timeCasa">Digite o nome do time da casa</string>
     <string name="label_timeVisitante">Time visitante</string>
     <string name="hint_timeVisitante">Digite o nome do time visitante</string>
+    <string name="placar_inicial">0</string>
+    <string name="label_gol">Gol</string>
 </resources>
