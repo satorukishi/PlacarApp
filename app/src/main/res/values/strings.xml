@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">PlacarApp</string>
-    <string name="label_titulo">Times</string>
-    <string name="label_proprietario">Desenvolvido por Satoru Channel</string>
-    <string name="label_timeCasa">Time da casa</string>
-    <string name="hint_timeCasa">Digite o nome do time da casa</string>
-    <string name="label_timeVisitante">Time visitante</string>
-    <string name="hint_timeVisitante">Digite o nome do time visitante</string>
-    <string name="placar_inicial">0</string>
-    <string name="label_gol">Gol</string>
+    <string name="app_name" translatable="false">PlacarApp</string>
+    <string name="hint_timeCasa">Type the Home team\'s name</string>
+    <string name="placar_inicial" translatable="false">0</string>
+    <string name="hint_timeVisitante">Type the Away team\'s name</string>
+    <string name="label_gol">Goal</string>
+    <string name="label_titulo">Teams</string>
+    <string name="label_timeVisitante">Away</string>
+    <string name="label_timeCasa">Home</string>
+    <string name="label_proprietario">Developed by Satoru Channel</string>
 </resources>
